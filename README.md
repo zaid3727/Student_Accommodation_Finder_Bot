@@ -12,6 +12,7 @@ This project implements facial recognition using the Pepper robot and integrates
 ## Project Structure
 ```
 pepper_facial_recognition/
+│── LICENSE 
 │── pepper_facial.py
 │── requirements.txt
 │── README.md
