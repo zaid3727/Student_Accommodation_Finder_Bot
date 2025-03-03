@@ -63,6 +63,3 @@ Contributions are welcome! Feel free to fork this repository and submit pull req
 - **Shashwat Pandey**
 - **Talha Riyaz Shaikh**
 
-## Author
-Developed by [Your Name]
-
