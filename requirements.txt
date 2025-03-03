@@ -1,0 +1,9 @@
+imutils
+face_recognition
+opencv-python
+qibullet
+gTTS
+playsound
+numpy
+requests
+profanity

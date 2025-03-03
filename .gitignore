@@ -1,0 +1,5 @@
+__pycache__/
+*.pkl
+*.mp3
+venv/
+.DS_Store
