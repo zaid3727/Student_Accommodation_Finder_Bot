@@ -15,14 +15,6 @@ pepper_facial_recognition/
 │── pepper_facial.py
 │── requirements.txt
 │── README.md
-│── data/
-│   ├── ref_name.pkl
-│   ├── ref_embed.pkl
-│── assets/
-│   ├── sample_images/
-│── scripts/
-│   ├── helper.py
-│── models/
 │── .gitignore
 ```
 
