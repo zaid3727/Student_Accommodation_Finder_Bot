@@ -1,5 +1,4 @@
-# Pepper Facial Recognition Project
-
+# Student Accomodation Finder Bot
 ## Overview
 This project implements facial recognition using the Pepper robot and integrates speech and chatbot functionalities to assist users with accommodation selection.
 
